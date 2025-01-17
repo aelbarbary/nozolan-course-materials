@@ -1,0 +1,7 @@
+1- One script for all characters. use .md
+2- Design canva presentation with multiple scenes
+    - Every scene has a dialog/script + stock images/videos
+3- Refer/sync up with Jupyer Notebook for code labs/challenges
+4- Define just one homework for each class
+5- Define 4/5 multiple choinse quiz
+

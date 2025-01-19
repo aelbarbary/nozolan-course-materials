@@ -2,7 +2,7 @@ Script for Audio Recording: Introduction and HTML Basics
 [Narrator]
 One sunny beautiful day in the meadow, Zakariah the Ant and his friend Aliah met under a tree.
 
-SCENE 1:
+SCENE 1
 ----------------------------------------------------------------
 
 [Zakariah the Ant's Voice: Cheerful and upbeat]
@@ -11,7 +11,7 @@ SCENE 1:
 [Aliah's Voice: Excited and curious]
 "Wa Alaikum Assalam, Zakariah! SubhanAllah, it really is! I was just thinking... wouldn’t it be wonderful if we could share all the amazing things Allah has given us with the world?"
 
-SCENE
+SCENE 2
 
 [Zakariah the Ant's Voice: Enthusiastic]
 "That’s a fantastic idea, Aliah! Let’s build a website where we can share our stories and remind everyone to say SubhanAllah for the wonders around them."

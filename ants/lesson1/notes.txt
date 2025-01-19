@@ -5,3 +5,16 @@
 4- Define just one homework for each class
 5- Define 4/5 multiple choinse quiz
 
+
+MOhamed Abdelkareem - Data Analytics
+------------------------------------
+- Presentation in canva 
+    - Notes for tecaher 
+    - Links to Jupyer Notebook as needed.
+- Jupyer Notebook: 
+    - Refresher for  prev classes
+    - The class educational materials
+    - Code Exampels 
+    - Code challenges (Numbered for easy refrence)
+    - Homework.
+
